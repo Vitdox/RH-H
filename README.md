@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RH-H
-- 👀 I’m interested in yes
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on yes
-- 📫 How to reach me, yes
+- 👋 Hi, I’m @RHgaming
+- 👀 I’m interested in tyler
+- 🌱 I’m currently learning u mum
+- 💞️ I’m looking to collaborate on tyler
+- 📫 How to reach me, no
 
 <!---
 RH-H/RH-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
